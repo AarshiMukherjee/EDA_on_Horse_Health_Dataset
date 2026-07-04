@@ -66,8 +66,7 @@ Horse-Survival-EDA/
 ├── data/
 │   └── horse.csv
 │
-├── notebooks/
-│   └── horse_health_code_implementation.ipynb
+├── horse_health_code_implementation.ipynb
 
 ```
 
