@@ -30,7 +30,7 @@ The dataset contains clinical information collected from horses to study surviva
 3. Categorical Features: 17
 4. Numerical Features: 11 (7 float, 4 integer)
 5. Missing Values: 1,602 across multiple features
-6. 
+
 ## Technologies Used
 
 - Python
